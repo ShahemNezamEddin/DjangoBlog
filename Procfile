@@ -1,1 +1,1 @@
-web: gunicon shahem-django-blog.wsgi
+web: gunicorn shahem-django-blog.wsgi
