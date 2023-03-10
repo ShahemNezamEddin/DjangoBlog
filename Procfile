@@ -1,1 +1,1 @@
-web: gunicon codestar.wsgi
+web: gunicon shahem-django-blog.wsgi
